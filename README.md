@@ -26,41 +26,33 @@
 
 <br/>
 
-<p align="center">
-  🤖 <b>AI Developer</b> at <b>Oud Tecnologia</b><br/>
-  🎓 <b>Computer Science</b> at UFMG (Current)<br/>
-  💻 <b>Systems Development Technician</b> at COLTEC/UFMG<br/>
-  🌍 Languages: Portuguese (Native), English (Advanced), Spanish (Basic)<br/>
-  📧 Contact: <a href="mailto:sergioamaralsouza.contato@gmail.com">sergioamaralsouza.contato@gmail.com</a>
-</p>
+---
 
-<br/>
+### 👨‍💻 About Me
 
-<!-- What I'm Working On -->
-<div align="center">
-  <img src="https://img.shields.io/badge/-%F0%9F%94%AD%20WHAT%20I'M%20WORKING%20ON-6C63FF?style=for-the-badge&labelColor=1a1a2e" alt="Working On"/>
-</div>
+- 🤖 **AI Developer** at **Oud Tecnologia**
+- 🎓 **Computer Science** at UFMG *(Current)*
+- 💻 **Systems Development Technician** at COLTEC/UFMG
+- 🌍 Languages: Portuguese (Native), English (Advanced), Spanish (Basic)
+- 📧 Contact: [sergioamaralsouza.contato@gmail.com](mailto:sergioamaralsouza.contato@gmail.com)
 
-<br/>
+---
 
-<div align="center">
-  <table>
-    <tr>
-      <td>💼</td>
-      <td>Developing complex <b>AI solutions</b> and <b>Agents</b> at <b>Oud Tecnologia</b></td>
-    </tr>
-    <tr>
-      <td>🛠️</td>
-      <td>Creating software with <b>Python</b>, <b>APIs</b>, and automations with <b>n8n</b></td>
-    </tr>
-    <tr>
-      <td>📚</td>
-      <td>Exploring new frontiers in <b>Computer Science</b> and <b>AI</b></td>
-    </tr>
-  </table>
-</div>
+### 🔭 What I'm working on
 
-<br/>
+- 💼 Developing complex **AI solutions** and **Agents** at **Oud Tecnologia**
+- 🛠️ Creating software with **Python**, **APIs**, and automations with **n8n**
+- 📚 Exploring new frontiers in **Computer Science** and **AI**
+
+---
+
+### ⚡ A little about me
+
+- 🎯 Passionate about combining creativity and functionality in every project
+- 🚀 Constantly learning and striving to build impactful digital experiences
+- 💡 Always looking for new challenges and opportunities to grow
+
+---
 
 <!-- Stats Section -->
 <div align="center">
