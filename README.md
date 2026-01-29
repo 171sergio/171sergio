@@ -17,7 +17,7 @@
 ### A little about me
 - 🌍 Languages: **Portuguese** (Native), **English** (Advanced), and **Spanish** (Basic)
 - 🎯 Focused on combining efficiency with intelligent code
-- 📧 Contact: [sergioamarlsouza.contato@gmail.com](mailto:sergioamaralsouza.contato@gmail.com)
+- 📧 Contact: [sergioamaralsouza.contato@gmail.com](mailto:sergioamaralsouza.contato@gmail.com)
 
 ### My Repositories
 
@@ -67,7 +67,7 @@
   <a href="https://discord.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=171sergio&logo=discord&label=Discord&color=5865F2&logoColor=white&labelColor=000000&style=for-the-badge" height="35" alt="discord logo" />
   </a>
-  <a href="mailto:sergioamarlsouza.contato@gmail.com" target="_blank">
+  <a href="mailto:sergioamaralsouza.contato@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=000000&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 </div>
