@@ -2,13 +2,17 @@
 
 <div align="center">
   
-  <!-- Typing Animation Header -->
+  <!-- Header -->
+  <h1>👋 Hey there! I'm Sérgio Amaral Souza</h1>
+  
+  <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+there!+%F0%9F%91%8B+I'm+S%C3%A9rgio+Amaral+Souza;AI+Developer+%7C+Software+Engineer;Building+the+Future+with+Code+%26+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=500&lines=AI+Developer+%7C+Software+Engineer;Building+Applications%2C+APIs+%26+AI+Agents" alt="Typing SVG" />
   </a>
   
+  <br /><br />
+  
   <!-- Profile Views Counter -->
-  <br />
   <img src="https://komarev.com/ghpvc/?username=171sergio&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile views" />
   
 </div>
@@ -25,7 +29,7 @@
 
 ---
 
-### � What I'm working on
+### 🔭 What I'm working on
 
 - 💼 Developing complex **AI solutions**, backend systems, and **Agents** at **Oud Tecnologia**
 - 🛠️ Creating software solutions using **Python**, **APIs**, and automations with **n8n**
@@ -35,18 +39,7 @@
 
 ### 🎓 Education
 
-<table>
-  <tr>
-    <td>🏛️</td>
-    <td><b>Computer Science</b> at Federal University of Minas Gerais (UFMG)</td>
-    <td><i>Current</i></td>
-  </tr>
-  <tr>
-    <td>💻</td>
-    <td><b>Systems Development Technician</b> at COLTEC/UFMG</td>
-    <td><i>Completed</i></td>
-  </tr>
-</table>
+- 💻 **Systems Development Technician** at COLTEC/UFMG *(Completed)*
 
 ---
 
@@ -61,27 +54,25 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  
-  <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=171sergio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  
-  <!-- Streak Stats -->
-  <img height="180em" src="https://streak-stats.demolab.com?user=171sergio&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
-  
+  <a href="https://github.com/171sergio">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=171sergio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/171sergio">
+    <img height="180em" src="https://streak-stats.demolab.com/?user=171sergio&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </a>
 </div>
 
 <div align="center">
-  
-  <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=171sergio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8&hide=html,css" alt="Top Languages" />
-  
+  <a href="https://github.com/171sergio">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=171sergio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&hide=html,css" alt="Top Languages" />
+  </a>
 </div>
 
 <br />
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=171sergio&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=171sergio&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
