@@ -55,10 +55,10 @@
 
 <div align="center">
   <a href="https://github.com/171sergio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=171sergio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=171sergio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=6C63FF&title_color=6C63FF&text_color=C9D1D9" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/171sergio">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=171sergio&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+    <img height="180em" src="https://streak-stats.demolab.com/?user=171sergio&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -83,6 +83,8 @@
 
 #### 💻 Languages
 <p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -99,7 +101,9 @@
 
 #### 🗄️ Databases & Cloud
 <p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
 </p>
 
