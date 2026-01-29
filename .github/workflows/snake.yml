@@ -1,9 +1,9 @@
 name: Generate Datas
 
 on:
-  schedule: # executa a cada 12 horas
+  schedule: # execute every 12 hours
     - cron: "0 */12 * * *"
-  workflow_dispatch: # permite rodar manualmente
+  workflow_dispatch:
   push:
     branches:
     - master
@@ -13,6 +13,8 @@ jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       # Snake Animation
       - uses: Platane/snk@v3
