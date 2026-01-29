@@ -1,39 +1,42 @@
+<br clear="both">
+
 <h2 align="left">Hey there! 👋 I'm Sérgio Amaral Souza</h2>
 
 ###
 
 <p align="left">
-    🤖 AI Developer at <b>Oud Tecnologia</b><br>
-    🚀 Automation Enthusiast working with <b>n8n</b> & <b>AI Agents</b>
+    🤖 AI Developer & Software Engineer at <b>Oud Tecnologia</b><br>
+    💻 Focused on building robust <b>Applications</b>, <b>APIs</b>, and <b>AI Agents</b>
 </p>
 
-### What I'm working on
-- 💼 Developing AI solutions and Agents at **Oud Tecnologia**
-- 🛠️ Building complex automations using **n8n** and **LLMs**
-- 📚 Always exploring new frontiers in Artificial Intelligence
+### 🚀 What I'm working on
+- 💼 Developing complex AI solutions, backend systems, and Agents at **Oud Tecnologia**
+- 🛠️ creating software solutions using **Python**, **APIs**, and automations with **n8n**
+- 📚 Always exploring new frontiers in Computer Science and Artificial Intelligence
 
 ### 🎓 Education
 - 🏛️ **Computer Science** at Federal University of Minas Gerais (UFMG) *(Current)*
 - 💻 **Systems Development Technician** at COLTEC/UFMG
 
-### A little about me
+### ⚡ A little about me
 - 🌍 Languages: **Portuguese** (Native), **English** (Advanced), and **Spanish** (Basic)
-- 🎯 Focused on combining efficiency with intelligent code
+- 🎯 Passionate about combining code efficiency with intelligent automation
 - 📧 Contact: [sergioamaralsouza.contato@gmail.com](mailto:sergioamaralsouza.contato@gmail.com)
 
-### My Repositories
+<br />
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=171sergio&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=171sergio&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
+### 📊 My Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=171sergio&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=171sergio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph" />
 </div>
 
-###
+<br />
+
+### 🛠️ Tech Stack & Tools
 
 <div align="left">
-  <h3>🛠️ Tech Stack & Tools</h3>
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
@@ -48,9 +51,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   
-  <br><br>
+  <br /><br />
 
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="35" alt="flask logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
   <img width="12" />
@@ -58,17 +61,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
   <img width="12" />
-  
+  <img src="https://img.shields.io/badge/Evolution%20API-4DB33D?style=for-the-badge" height="30" alt="evolution api badge" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Chatwoot-1F93FF?style=for-the-badge&logo=chatwoot&logoColor=white" height="30" alt="chatwoot badge" />
+
+  <br /><br />
+
   <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" height="40" alt="n8n logo" />
   <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/64213008?s=200&v=4" height="40" alt="evolution api logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/ngrok-1F1E25?style=for-the-badge&logo=ngrok&logoColor=white" height="35" alt="ngrok logo" />
-  <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/54504588?s=200&v=4" height="40" alt="chatwoot logo" />
+  <img src="https://img.shields.io/badge/ngrok-1F1E25?style=for-the-badge&logo=ngrok&logoColor=white" height="30" alt="ngrok badge" />
 </div>
 
-###
+<br />
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sergioasouza/" target="_blank">
@@ -85,12 +89,12 @@
   </a>
 </div>
 
-###
+<br />
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/171sergio/171sergio/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/171sergio/171sergio/output/github-contribution-grid-snake.svg">
-  <img align="left" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/171sergio/171sergio/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/171sergio/171sergio/output/github-contribution-grid-snake.svg">
 </picture>
 
 <br clear="both">
