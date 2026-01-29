@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h2 align="left">Hey there! 👋 I'm Sérgio Amaral Souza</h2>
 
 ###
@@ -14,6 +12,10 @@
 - 🛠️ Building complex automations using **n8n** and **LLMs**
 - 📚 Always exploring new frontiers in Artificial Intelligence
 
+### 🎓 Education
+- 🏛️ **Computer Science** at Federal University of Minas Gerais (UFMG) *(Current)*
+- 💻 **Systems Development Technician** at COLTEC/UFMG
+
 ### A little about me
 - 🌍 Languages: **Portuguese** (Native), **English** (Advanced), and **Spanish** (Basic)
 - 🎯 Focused on combining efficiency with intelligent code
@@ -22,9 +24,9 @@
 ### My Repositories
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=171sergio&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=171sergio&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=171sergio&layout=compact&langs_count=6&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=171sergio&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
 </div>
 
 ###
@@ -32,42 +34,38 @@
 <div align="left">
   <h3>🛠️ Tech Stack & Tools</h3>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="10" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="10" />
   
   <br><br>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
-  <img width="10" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="35" alt="flask logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
-  <img width="10" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="10" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
-  <img width="10" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" height="40" alt="openai logo" />
-  <img width="10" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" height="40" alt="gemini logo" />
-  <img width="10" />
+  <img width="12" />
+  
   <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" height="40" alt="n8n logo" />
-  <img width="10" />
-  <img src="https://cdn.worldvectorlogo.com/logos/swagger.svg" height="40" alt="swagger logo" />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/64213008?s=200&v=4" height="40" alt="evolution api logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/ngrok-1F1E25?style=for-the-badge&logo=ngrok&logoColor=white" height="35" alt="ngrok logo" />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/54504588?s=200&v=4" height="40" alt="chatwoot logo" />
 </div>
 
 ###
