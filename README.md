@@ -7,7 +7,7 @@
   
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=500&lines=AI+Developer+%7C+Software+Engineer;Building+Applications%2C+APIs+%26+AI+Agents" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=AI+Developer+%7C+Software+Engineer;Building+the+Future+with+Code+%26+AI" alt="Typing SVG" />
   </a>
   
   <br /><br />
@@ -39,6 +39,7 @@
 
 ### 🎓 Education
 
+- 🏛️ **Computer Science** at Federal University of Minas Gerais (UFMG) *(Current)*
 - 💻 **Systems Development Technician** at COLTEC/UFMG *(Completed)*
 
 ---
@@ -54,18 +55,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/171sergio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=171sergio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=6C63FF&title_color=6C63FF&text_color=C9D1D9" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/171sergio">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=171sergio&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/171sergio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=171sergio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&hide=html,css" alt="Top Languages" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=171sergio&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=171sergio&theme=tokyonight" alt="Repos per Language" />
 </div>
 
 <br />
