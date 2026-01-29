@@ -1,9 +1,9 @@
-name: Generate Datas
+name: Generate Snake
 
 on:
-  schedule: # executa a cada 12 horas
-    - cron: "0 */12 * * *"
-  workflow_dispatch: # permite rodar manualmente
+  schedule:
+    - cron: "0 */12 * * *" # roda a cada 12h
+  workflow_dispatch:
   push:
     branches:
     - master
@@ -11,27 +11,20 @@ on:
 
 jobs:
   build:
-    name: Jobs to update datas
     runs-on: ubuntu-latest
-    
-    # ⚠️ IMPORTANTE: Essa permissão é necessária para salvar o arquivo
     permissions:
       contents: write
-      
     steps:
-      # Snake Animation
       - uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: 171sergio
-          # Aqui geramos os dois arquivos: o normal e o DARK
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Publica os arquivos gerados na branch "output"
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
