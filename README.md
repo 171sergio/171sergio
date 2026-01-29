@@ -1,100 +1,47 @@
-<br clear="both">
+# Hey there! 👋 I'm Sérgio Amaral Souza
 
-<h2 align="left">Hey there! 👋 I'm Sérgio Amaral Souza</h2>
+💻 **AI Developer & Software Engineer at Oud Tecnologia**
+🚀 Focused on building robust Applications, APIs, and AI Agents
 
-###
-
-<p align="left">
-    🤖 AI Developer & Software Engineer at <b>Oud Tecnologia</b><br>
-    💻 Focused on building robust <b>Applications</b>, <b>APIs</b>, and <b>AI Agents</b>
-</p>
-
-### 🚀 What I'm working on
-- 💼 Developing complex AI solutions, backend systems, and Agents at **Oud Tecnologia**
-- 🛠️ creating software solutions using **Python**, **APIs**, and automations with **n8n**
-- 📚 Always exploring new frontiers in Computer Science and Artificial Intelligence
+### 🛠 What I'm working on
+- 🏗️ Developing complex AI solutions and backend systems at Oud Tecnologia.
+- ⚙️ Creating software solutions using Python, APIs, and automations with n8n.
+- 🌌 Always exploring new frontiers in Computer Science and Artificial Intelligence.
 
 ### 🎓 Education
-- 🏛️ **Computer Science** at Federal University of Minas Gerais (UFMG) *(Current)*
-- 💻 **Systems Development Technician** at COLTEC/UFMG
+- 🏛️ **Computer Science** at Federal University of Minas Gerais (UFMG) (*Current*)
+- 👨‍💻 **Systems Development Technician** at COLTEC/UFMG
 
 ### ⚡ A little about me
-- 🌍 Languages: **Portuguese** (Native), **English** (Advanced), and **Spanish** (Basic)
-- 🎯 Passionate about combining code efficiency with intelligent automation
-- 📧 Contact: [sergioamaralsouza.contato@gmail.com](mailto:sergioamaralsouza.contato@gmail.com)
+- 🌍 Languages: Portuguese (Native), English (Advanced), and Spanish (Basic).
+- 🎯 Passionate about combining code efficiency with intelligent automation.
+- 📧 Contact: sergioamaralsouza.contato@gmail.com
 
-<br />
+---
+
+### 🚀 Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+</p>
+
+---
 
 ### 📊 My Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=171sergio&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Sérgio's GitHub stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=171sergio&theme=dark" alt="GitHub Streak" height="150" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=171sergio&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=171sergio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph" />
-</div>
+---
 
-<br />
-
-### 🛠️ Tech Stack & Tools
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  
-  <br /><br />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Evolution%20API-4DB33D?style=for-the-badge" height="30" alt="evolution api badge" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Chatwoot-1F93FF?style=for-the-badge&logo=chatwoot&logoColor=white" height="30" alt="chatwoot badge" />
-
-  <br /><br />
-
-  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" height="40" alt="n8n logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/ngrok-1F1E25?style=for-the-badge&logo=ngrok&logoColor=white" height="30" alt="ngrok badge" />
-</div>
-
-<br />
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/sergioasouza/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=000000&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/amaral._sergio/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=000000&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=171sergio&logo=discord&label=Discord&color=5865F2&logoColor=white&labelColor=000000&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
-  <a href="mailto:sergioamaralsouza.contato@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=000000&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-</div>
-
-<br />
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/171sergio/171sergio/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/171sergio/171sergio/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/171sergio/171sergio/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br clear="both">
+### 📫 Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/SEU_USER_AQUI" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:sergioamaralsouza.contato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
